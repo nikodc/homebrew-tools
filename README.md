@@ -6,10 +6,10 @@ Tap personal de Homebrew para mis propias herramientas de línea de comandos.
 
 ```sh
 brew tap nikodc/tools
+brew trust nikodc/tools
 ```
 
-Al ser un tap de terceros, Homebrew puede pedir confirmación para confiar en él
-(`Do you want to tap it anyway?` o similar). Aceptá el prompt para continuar.
+Al ser un tap de terceros, Homebrew puede pedir confirmación para confiar en él.
 
 ## Fórmulas disponibles
 
